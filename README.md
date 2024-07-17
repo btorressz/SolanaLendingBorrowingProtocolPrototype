@@ -8,6 +8,8 @@ This project is currently a prototype and is under active development. It is not
 
 Note: This is a prototype project and is not intended for production use. The code and contracts are subject to change and should not be used on mainnet or for any real transactions.
 
+Note: THis project was 100% developed in Solana playground IDE https://beta.solpg.io/ Some parts of the project were not exported correctly for local development. I will be fixing these issues. You can view the Solana Playground version of this project here: https://github.com/btorressz/Solana-Lending-Protocol-Prototype 
+
 ## Features
 
 - **Lending**: Users can lend their tokens to the protocol to earn interest.
